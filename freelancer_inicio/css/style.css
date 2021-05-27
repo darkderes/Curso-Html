@@ -1,0 +1,15 @@
+/* los datos de css de las etiquetas htmL y body son recomendados para todos los proyectos */
+
+html{
+    font-size:62.5%;
+}
+body{
+    font-size: 16px;
+}
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;   
+}
+.titulo span{
+    font-size: 2rem;
+}
